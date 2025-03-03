@@ -1,0 +1,2 @@
+Esto es un achivo en rama1 pero es otro archivo
+Esto es un archivo en rama1 pero es otro nuevo
